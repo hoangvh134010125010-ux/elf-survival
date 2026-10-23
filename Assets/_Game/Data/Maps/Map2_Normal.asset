@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274a19c61c92e7c468addd334660c71c, type: 3}
+  m_Name: Map2_Normal
+  m_EditorClassIdentifier: Assembly-CSharp::MapSO
+  mapID: 2
+  sceneName: GameplayScene
+  mapName: "Map Th\u01B0\u1EDDng"
+  difficulty: 1
+  smallEnemyPrefabs:
+  - {fileID: 8180541392167237497, guid: 6d719a16cb84800498e9bab3c8055998, type: 3}
+  - {fileID: 8180541392167237497, guid: 739bbfdc6f95a2540909c4c0fd4831f8, type: 3}
+  - {fileID: 8180541392167237497, guid: f391b18502e5e384a910b99adf8eef58, type: 3}
+  bossPrefab: {fileID: 8180541392167237497, guid: 31769b3edc66eaf42a013fe4fa385b73, type: 3}
+  enemyHpMultiplier: 1.45
+  enemySpeedMultiplier: 1.06
+  enemyDamageMultiplier: 1.28
+  baseEnemyCount: 50
+  waveGrowthPercent: 20
+  requiredWeaponUpgrade: 3
+  requiredArmorUpgrade: 3
+  requiredAtk: 32
+  requiredHp: 200
+  goldReward: 1600
+  itemDrops:
+  - {fileID: 11400000, guid: ccd5e39c305dbec40a65518b6fd6c0ad, type: 2}
+  - {fileID: 11400000, guid: f3e75da5168eb294a95d997d6cf4a57a, type: 2}
+  - {fileID: 11400000, guid: ddf20d97d5121a949adf429a4fe96377, type: 2}
+  styleName: "Ph\u1EBF T\xEDch"
+  groundTiles:
+  - {fileID: 11400000, guid: 2e00748cc4924de42a59e142923a3df8, type: 2}
+  - {fileID: 11400000, guid: 25ecd62c3dae4eb418ab0ff556e51195, type: 2}
+  - {fileID: 11400000, guid: fabd18c6472405245b20eef7cb5ee3bb, type: 2}
+  - {fileID: 11400000, guid: 5107c39f6afd46a4ebd538297bc40b5e, type: 2}
+  - {fileID: 11400000, guid: f5945c4f4a016ae419bd0fb1152e2d1a, type: 2}
+  - {fileID: 11400000, guid: 15eeb83986583c54b99f23d0b1d5b342, type: 2}
+  - {fileID: 11400000, guid: 9adc64847915fb44dbb13ed54821f7f3, type: 2}
+  - {fileID: 11400000, guid: f73c8ba870a97f54fba502193d31f6e3, type: 2}
+  - {fileID: 11400000, guid: e43ab35d6a5685241a17d90925d9a865, type: 2}
+  groundIsPattern3x3: 1
+  accentTiles: []
+  accentChance: 0
+  groundTint: {r: 1, g: 0.95, b: 0.84, a: 1}
+  wallTiles:
+  - {fileID: 11400000, guid: 2e00748cc4924de42a59e142923a3df8, type: 2}
+  - {fileID: 11400000, guid: 25ecd62c3dae4eb418ab0ff556e51195, type: 2}
+  - {fileID: 11400000, guid: fabd18c6472405245b20eef7cb5ee3bb, type: 2}
+  - {fileID: 11400000, guid: 5107c39f6afd46a4ebd538297bc40b5e, type: 2}
+  - {fileID: 11400000, guid: f5945c4f4a016ae419bd0fb1152e2d1a, type: 2}
+  - {fileID: 11400000, guid: 15eeb83986583c54b99f23d0b1d5b342, type: 2}
+  - {fileID: 11400000, guid: 9adc64847915fb44dbb13ed54821f7f3, type: 2}
+  - {fileID: 11400000, guid: f73c8ba870a97f54fba502193d31f6e3, type: 2}
+  - {fileID: 11400000, guid: e43ab35d6a5685241a17d90925d9a865, type: 2}
+  wallTint: {r: 0.66, g: 0.56, b: 0.44, a: 1}
+  wallTrimTint: {r: 0.95, g: 0.84, b: 0.62, a: 1}
+  decorPrefabs:
+  - {fileID: 2577585254963922480, guid: fb2df5b680b64b449a78162ebcd98e97, type: 3}
+  - {fileID: 8150476868300563372, guid: 2e2ac125e54a1e44780363d638b1df34, type: 3}
+  - {fileID: 2055102311959635369, guid: 413081fc53a78a043b38591243616398, type: 3}
+  - {fileID: 2577585254963922480, guid: ac719b1d0f58391469cc19fd947ca44c, type: 3}
+  - {fileID: 2577585254963922480, guid: 63ee4b6a40c55fd429759b807832ded1, type: 3}
+  - {fileID: 2577585254963922480, guid: f3cc2373308c11848977b28d974a9de0, type: 3}
+  - {fileID: 7947911505737750455, guid: 84395be60ff2def43bb58fa039614eab, type: 3}
+  - {fileID: 7947911505737750455, guid: 91afc0649ae41a64c860a5d49f05ff40, type: 3}
+  - {fileID: 7947911505737750455, guid: 8fd7cba4384381e4aad6dc90158fc9d5, type: 3}
+  - {fileID: 7947911505737750455, guid: 41ea6afb203377e42995d7d016ea5907, type: 3}
+  - {fileID: 7947911505737750455, guid: cfa0a5ef94fb05d4f97d095a05dc55c5, type: 3}
+  - {fileID: 7947911505737750455, guid: ebdc6ef285e0bf542bed7e9c1bfb9923, type: 3}
+  - {fileID: 7947911505737750455, guid: 5d42979a3c318c341b37b4b1f2c85750, type: 3}
+  - {fileID: 7947911505737750455, guid: 92a9322ee3bba184f91fbebe53b69bd9, type: 3}
+  - {fileID: 2055102311959635369, guid: a0a71fda412ad0941ab44f1732ea4c1e, type: 3}
+  - {fileID: 2055102311959635369, guid: 5b94bf9107369684a8153921f763da38, type: 3}
+  decorCount: 30
+  decorTint: {r: 1, g: 0.97, b: 0.9, a: 1}

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274a19c61c92e7c468addd334660c71c, type: 3}
+  m_Name: Map4_Hell
+  m_EditorClassIdentifier: Assembly-CSharp::MapSO
+  mapID: 4
+  sceneName: GameplayScene
+  mapName: "Map \u0110\u1ECBa Ng\u1EE5c"
+  difficulty: 3
+  smallEnemyPrefabs:
+  - {fileID: 8180541392167237497, guid: 6d719a16cb84800498e9bab3c8055998, type: 3}
+  - {fileID: 8180541392167237497, guid: 739bbfdc6f95a2540909c4c0fd4831f8, type: 3}
+  - {fileID: 8180541392167237497, guid: f391b18502e5e384a910b99adf8eef58, type: 3}
+  bossPrefab: {fileID: 8180541392167237497, guid: 31769b3edc66eaf42a013fe4fa385b73, type: 3}
+  enemyHpMultiplier: 2.5
+  enemySpeedMultiplier: 1.2
+  enemyDamageMultiplier: 1.85
+  baseEnemyCount: 50
+  waveGrowthPercent: 20
+  requiredWeaponUpgrade: 9
+  requiredArmorUpgrade: 9
+  requiredAtk: 56
+  requiredHp: 275
+  goldReward: 4500
+  itemDrops:
+  - {fileID: 11400000, guid: ccbf0587d68e90849af4120d9bb5c823, type: 2}
+  - {fileID: 11400000, guid: f3e75da5168eb294a95d997d6cf4a57a, type: 2}
+  - {fileID: 11400000, guid: 03439ad819dae484a8495d9db8e19bfc, type: 2}
+  styleName: "Luy\u1EC7n Ng\u1EE5c"
+  groundTiles:
+  - {fileID: 11400000, guid: 2e00748cc4924de42a59e142923a3df8, type: 2}
+  - {fileID: 11400000, guid: 25ecd62c3dae4eb418ab0ff556e51195, type: 2}
+  - {fileID: 11400000, guid: fabd18c6472405245b20eef7cb5ee3bb, type: 2}
+  - {fileID: 11400000, guid: 5107c39f6afd46a4ebd538297bc40b5e, type: 2}
+  - {fileID: 11400000, guid: f5945c4f4a016ae419bd0fb1152e2d1a, type: 2}
+  - {fileID: 11400000, guid: 15eeb83986583c54b99f23d0b1d5b342, type: 2}
+  - {fileID: 11400000, guid: 9adc64847915fb44dbb13ed54821f7f3, type: 2}
+  - {fileID: 11400000, guid: f73c8ba870a97f54fba502193d31f6e3, type: 2}
+  - {fileID: 11400000, guid: e43ab35d6a5685241a17d90925d9a865, type: 2}
+  groundIsPattern3x3: 1
+  accentTiles: []
+  accentChance: 0
+  groundTint: {r: 0.85, g: 0.38, b: 0.32, a: 1}
+  wallTiles:
+  - {fileID: 11400000, guid: 2e00748cc4924de42a59e142923a3df8, type: 2}
+  - {fileID: 11400000, guid: 25ecd62c3dae4eb418ab0ff556e51195, type: 2}
+  - {fileID: 11400000, guid: fabd18c6472405245b20eef7cb5ee3bb, type: 2}
+  - {fileID: 11400000, guid: 5107c39f6afd46a4ebd538297bc40b5e, type: 2}
+  - {fileID: 11400000, guid: f5945c4f4a016ae419bd0fb1152e2d1a, type: 2}
+  - {fileID: 11400000, guid: 15eeb83986583c54b99f23d0b1d5b342, type: 2}
+  - {fileID: 11400000, guid: 9adc64847915fb44dbb13ed54821f7f3, type: 2}
+  - {fileID: 11400000, guid: f73c8ba870a97f54fba502193d31f6e3, type: 2}
+  - {fileID: 11400000, guid: e43ab35d6a5685241a17d90925d9a865, type: 2}
+  wallTint: {r: 0.45, g: 0.16, b: 0.14, a: 1}
+  wallTrimTint: {r: 1, g: 0.5, b: 0.2, a: 1}
+  decorPrefabs:
+  - {fileID: 7947911505737750455, guid: 8728cc48d2747494893fd60426c06f6e, type: 3}
+  - {fileID: 1360264394729772843, guid: 4fad9c4de6b725a43bb1200ed9479c08, type: 3}
+  - {fileID: 7947911505737750455, guid: c5bdca1933fde624698bb8c6d6daa44b, type: 3}
+  - {fileID: 7947911505737750455, guid: d730038d263986f4dac93230e1dd62b0, type: 3}
+  - {fileID: 2577585254963922480, guid: f6a5710827e32d3489da2c249e3bc400, type: 3}
+  - {fileID: 7947911505737750455, guid: d5762f992ea3bd544bb8287f66e8f844, type: 3}
+  - {fileID: 7947911505737750455, guid: f826bf48ad5bedc4ab6cabe6c4e498e8, type: 3}
+  - {fileID: 2055102311959635369, guid: 6242b925f1d3e0d44a183102cd3d4c26, type: 3}
+  - {fileID: 7947911505737750455, guid: 5d42979a3c318c341b37b4b1f2c85750, type: 3}
+  - {fileID: 5055698509961064897, guid: 6d6991dbbdeecb1488bbf78c063d1235, type: 3}
+  decorCount: 28
+  decorTint: {r: 1, g: 0.55, b: 0.45, a: 1}

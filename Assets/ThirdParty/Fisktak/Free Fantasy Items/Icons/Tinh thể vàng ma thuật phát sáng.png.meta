@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 6308e1b431941bd47ae05da506aa99a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7684279132932063502
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_0"
+  - first:
+      213: -3007369624026876936
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_1"
+  - first:
+      213: 7197164890692082949
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_2"
+  - first:
+      213: 917408312955062277
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_3"
+  - first:
+      213: 8742584824555575410
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_4"
+  - first:
+      213: 8447752002634538813
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_5"
+  - first:
+      213: -2021186133575203032
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_6"
+  - first:
+      213: -1858350046581523412
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_7"
+  - first:
+      213: -524109743904192365
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_8"
+  - first:
+      213: -6525402201714642119
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_9"
+  - first:
+      213: 5391023281637573643
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_10"
+  - first:
+      213: 6852086197405642610
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_11"
+  - first:
+      213: -1559994204711317444
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_12"
+  - first:
+      213: -3516576585051983875
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_13"
+  - first:
+      213: 3912175815207111117
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_14"
+  - first:
+      213: 1759769694888149788
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_15"
+  - first:
+      213: 677354376359302607
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_16"
+  - first:
+      213: -553070348218395961
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_17"
+  - first:
+      213: 5510262556123510059
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_18"
+  - first:
+      213: -4557928627831416913
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_19"
+  - first:
+      213: -6604324888099164476
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_20"
+  - first:
+      213: 2803277000166884096
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_21"
+  - first:
+      213: -7634644785565936405
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_22"
+  - first:
+      213: 2502715380514729031
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_23"
+  - first:
+      213: -2996350653246193326
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_24"
+  - first:
+      213: 8980059588484946189
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_25"
+  - first:
+      213: 5249175860116586791
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_26"
+  - first:
+      213: 4928744050386867938
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_27"
+  - first:
+      213: -795868932928198724
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_28"
+  - first:
+      213: -4941234360815682089
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_29"
+  - first:
+      213: 4808208651335954362
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_30"
+  - first:
+      213: 8448659980910526429
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_31"
+  - first:
+      213: 1125330457893352420
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_32"
+  - first:
+      213: -6885689211127585659
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_33"
+  - first:
+      213: 4556503821307543339
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_34"
+  - first:
+      213: 7881914396675132757
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_35"
+  - first:
+      213: -8890423691194950205
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_36"
+  - first:
+      213: 8276825958748868535
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_37"
+  - first:
+      213: -1899819853892050100
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_38"
+  - first:
+      213: -2795546232677597444
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_39"
+  - first:
+      213: -2447958651705004837
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_40"
+  - first:
+      213: -3609935770862279827
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_41"
+  - first:
+      213: -6266472779185638384
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_42"
+  - first:
+      213: 3509827074028972700
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_43"
+  - first:
+      213: 6688288014462598987
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_44"
+  - first:
+      213: -3576448429578486048
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_45"
+  - first:
+      213: -883530797639494804
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_46"
+  - first:
+      213: 6629784809925040624
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_47"
+  - first:
+      213: -4831426963245815652
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_48"
+  - first:
+      213: -4990881151153350015
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_49"
+  - first:
+      213: -4419524519255692718
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_50"
+  - first:
+      213: -4099017366496101719
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_51"
+  - first:
+      213: 4688570724003959709
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_52"
+  - first:
+      213: 5479050319236445387
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_53"
+  - first:
+      213: 2027265042739788170
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_54"
+  - first:
+      213: -4024186933121073419
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_55"
+  - first:
+      213: 871206388492117274
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_56"
+  - first:
+      213: 9079942264816545300
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_57"
+  - first:
+      213: 5902111915570854569
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_58"
+  - first:
+      213: 8926776853616261283
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_59"
+  - first:
+      213: 3544476668667267585
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_60"
+  - first:
+      213: -8658746391398722605
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_61"
+  - first:
+      213: 1407507380725843858
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_62"
+  - first:
+      213: 579868416880213935
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_63"
+  - first:
+      213: 640877801218918918
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_64"
+  - first:
+      213: -3270860401388340227
+    second: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_65"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 3000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1527
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe33a677d4fb5590800000000000000
+      internalID: -7684279132932063502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_1"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1012
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3f39bb24da346d0800000000000000
+      internalID: -3007369624026876936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_2"
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1001
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d5d9bf55771e360800000000000000
+      internalID: 7197164890692082949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_3"
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 939
+        width: 108
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5084daffff94bbc00800000000000000
+      internalID: 917408312955062277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_4"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 973
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2781b56e396e35970800000000000000
+      internalID: 8742584824555575410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_5"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 996
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f50a330b17c3570800000000000000
+      internalID: 8447752002634538813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_6"
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 833
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8270e439bed43f3e0800000000000000
+      internalID: -2021186133575203032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_7"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 815
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c7d258a70d536e0800000000000000
+      internalID: -1858350046581523412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_8"
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 806
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398054bf6fcf9b8f0800000000000000
+      internalID: -524109743904192365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_9"
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 751
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9333f36454d1175a0800000000000000
+      internalID: -6525402201714642119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_10"
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 735
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b044edd9c13c0da40800000000000000
+      internalID: 5391023281637573643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_11"
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 729
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f68b6b710871f50800000000000000
+      internalID: 6852086197405642610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_12"
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 719
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3093883989c95ae0800000000000000
+      internalID: -1559994204711317444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_13"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 709
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff258e3a3c923fc0800000000000000
+      internalID: -3516576585051983875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_14"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 699
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc94b442d27da4630800000000000000
+      internalID: 3912175815207111117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_15"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 683
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c134e4eb635fb6810800000000000000
+      internalID: 1759769694888149788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_16"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 685
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5d3fd6732766900800000000000000
+      internalID: 677354376359302607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_17"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 673
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c214a6d2791358f0800000000000000
+      internalID: -553070348218395961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_18"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 679
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25b0e4a992687c40800000000000000
+      internalID: 5510262556123510059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_19"
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 685
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7568adf0cfeb0c0800000000000000
+      internalID: -4557928627831416913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_20"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 645
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cee3976189b854a0800000000000000
+      internalID: -6604324888099164476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_21"
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 656
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00348f9449d37e620800000000000000
+      internalID: 2803277000166884096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_22"
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 659
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4dd02840b4c0690800000000000000
+      internalID: -7634644785565936405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_23"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 605
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cac7de06e6bb220800000000000000
+      internalID: 2502715380514729031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_24"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 597
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25140cac4f2da66d0800000000000000
+      internalID: -2996350653246193326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_25"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 598
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d095c790e949f9c70800000000000000
+      internalID: 8980059588484946189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_26"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 601
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7210ec922a1d8d840800000000000000
+      internalID: 5249175860116586791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_27"
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 563
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e61128a99a666440800000000000000
+      internalID: 4928744050386867938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_28"
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 599
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ab051c6184f4f0800000000000000
+      internalID: -795868932928198724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_29"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd70a357853d6bb0800000000000000
+      internalID: -4941234360815682089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_30"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 559
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfe6dc1b403ab240800000000000000
+      internalID: 4808208651335954362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_31"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 551
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddffa3e5d7baf3570800000000000000
+      internalID: 8448659980910526429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_32"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 561
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e339a5d61afd9f00800000000000000
+      internalID: 1125330457893352420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_33"
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 561
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5842009f42e1170a0800000000000000
+      internalID: -6885689211127585659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_34"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 511
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ffeb68514fb3f30800000000000000
+      internalID: 4556503821307543339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_35"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 541
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dcbd3326f226d60800000000000000
+      internalID: 7881914396675132757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_36"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 515
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd9b9f91cede9480800000000000000
+      internalID: -8890423691194950205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_37"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 501
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf45f26b513dd270800000000000000
+      internalID: 8276825958748868535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_38"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 495
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43a78798eb72a5e0800000000000000
+      internalID: -1899819853892050100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_39"
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 495
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfef11843893439d0800000000000000
+      internalID: -2795546232677597444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_40"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 479
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc674c739a170ed0800000000000000
+      internalID: -2447958651705004837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_41"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 475
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6327cbea8ee6edc0800000000000000
+      internalID: -3609935770862279827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_42"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 450
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0143cf165340909a0800000000000000
+      internalID: -6266472779185638384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_43"
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 421
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aab82c02965b030800000000000000
+      internalID: 3509827074028972700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_44"
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 481
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fbb89538291dc50800000000000000
+      internalID: 6688288014462598987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_45"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 463
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee78752a17ed5ec0800000000000000
+      internalID: -3576448429578486048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_46"
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 446
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c639492bb611db3f0800000000000000
+      internalID: -883530797639494804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_47"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 381
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9dcd4982ab10c50800000000000000
+      internalID: 6629784809925040624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_48"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 400
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c982d7166c253fcb0800000000000000
+      internalID: -4831426963245815652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_49"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 399
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18adf4d2904dcbab0800000000000000
+      internalID: -4990881151153350015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_50"
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 411
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa2a98dd1baa2c0800000000000000
+      internalID: -4419524519255692718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_51"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 383
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aab7d53c6d5d17c0800000000000000
+      internalID: -4099017366496101719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_52"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 385
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d935d8c7b36211140800000000000000
+      internalID: 4688570724003959709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_53"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 356
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc434907c3f790c40800000000000000
+      internalID: 5479050319236445387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_54"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 337
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a897212c0da422c10800000000000000
+      internalID: 2027265042739788170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_55"
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 349
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5febc8d2e473728c0800000000000000
+      internalID: -4024186933121073419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_56"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 283
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15af103895271c00800000000000000
+      internalID: 871206388492117274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_57"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 307
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e227bd16f620e70800000000000000
+      internalID: 9079942264816545300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_58"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 239
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7338348388e150800000000000000
+      internalID: 5902111915570854569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_59"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 241
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f9f4904842eb70800000000000000
+      internalID: 8926776853616261283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_60"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 237
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a829e20c2803130800000000000000
+      internalID: 3544476668667267585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_61"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 239
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3db747804f5d780800000000000000
+      internalID: -8658746391398722605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_62"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 223
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29787e66188788310800000000000000
+      internalID: 1407507380725843858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_63"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 207
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faffc9cb04b1c0800800000000000000
+      internalID: 579868416880213935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_64"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 127
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4616f6fad4e800800000000000000
+      internalID: 640877801218918918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_65"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb3b517bc19b92d0800000000000000
+      internalID: -3270860401388340227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_0": -7684279132932063502
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_1": -3007369624026876936
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_10": 5391023281637573643
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_11": 6852086197405642610
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_12": -1559994204711317444
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_13": -3516576585051983875
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_14": 3912175815207111117
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_15": 1759769694888149788
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_16": 677354376359302607
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_17": -553070348218395961
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_18": 5510262556123510059
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_19": -4557928627831416913
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_2": 7197164890692082949
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_20": -6604324888099164476
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_21": 2803277000166884096
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_22": -7634644785565936405
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_23": 2502715380514729031
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_24": -2996350653246193326
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_25": 8980059588484946189
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_26": 5249175860116586791
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_27": 4928744050386867938
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_28": -795868932928198724
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_29": -4941234360815682089
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_3": 917408312955062277
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_30": 4808208651335954362
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_31": 8448659980910526429
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_32": 1125330457893352420
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_33": -6885689211127585659
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_34": 4556503821307543339
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_35": 7881914396675132757
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_36": -8890423691194950205
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_37": 8276825958748868535
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_38": -1899819853892050100
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_39": -2795546232677597444
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_4": 8742584824555575410
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_40": -2447958651705004837
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_41": -3609935770862279827
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_42": -6266472779185638384
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_43": 3509827074028972700
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_44": 6688288014462598987
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_45": -3576448429578486048
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_46": -883530797639494804
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_47": 6629784809925040624
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_48": -4831426963245815652
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_49": -4990881151153350015
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_5": 8447752002634538813
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_50": -4419524519255692718
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_51": -4099017366496101719
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_52": 4688570724003959709
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_53": 5479050319236445387
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_54": 2027265042739788170
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_55": -4024186933121073419
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_56": 871206388492117274
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_57": 9079942264816545300
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_58": 5902111915570854569
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_59": 8926776853616261283
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_6": -2021186133575203032
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_60": 3544476668667267585
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_61": -8658746391398722605
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_62": 1407507380725843858
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_63": 579868416880213935
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_64": 640877801218918918
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_65": -3270860401388340227
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_7": -1858350046581523412
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_8": -524109743904192365
+      "Tinh th\u1EC3 v\xE0ng ma thu\u1EADt ph\xE1t s\xE1ng_9": -6525402201714642119
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
